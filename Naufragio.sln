@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{1A0D328C-BE41-8E09-F87A-CFCF65363024}") = "Naufragio", "Assembly-CSharp-firstpass.csproj", "{F6B11BEE-2DD7-A21B-BE96-67D056EA9576}"
+EndProject
+Project("{1A0D328C-BE41-8E09-F87A-CFCF65363024}") = "Naufragio", "Assembly-CSharp.csproj", "{FBAFE240-9854-BC53-1614-43F7163E756C}"
+EndProject
+Project("{1A0D328C-BE41-8E09-F87A-CFCF65363024}") = "Naufragio", "Assembly-UnityScript.unityproj", "{63AECF99-EDD1-D346-99AF-F309D85A18A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6B11BEE-2DD7-A21B-BE96-67D056EA9576}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6B11BEE-2DD7-A21B-BE96-67D056EA9576}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6B11BEE-2DD7-A21B-BE96-67D056EA9576}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6B11BEE-2DD7-A21B-BE96-67D056EA9576}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBAFE240-9854-BC53-1614-43F7163E756C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBAFE240-9854-BC53-1614-43F7163E756C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBAFE240-9854-BC53-1614-43F7163E756C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBAFE240-9854-BC53-1614-43F7163E756C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63AECF99-EDD1-D346-99AF-F309D85A18A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63AECF99-EDD1-D346-99AF-F309D85A18A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63AECF99-EDD1-D346-99AF-F309D85A18A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63AECF99-EDD1-D346-99AF-F309D85A18A4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

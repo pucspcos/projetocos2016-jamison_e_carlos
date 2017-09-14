@@ -21,7 +21,9 @@ public class Player2D : MonoBehaviour {
 	}
 	
 	void Update () {
-		velocity = new Vector2 (Input.GetAxisRaw (InputHorizontal), Input.GetAxisRaw (InputVertical)).normalized * (speed*(mapGen==null?1:mapGen.tileScale));
+		//velocity = new Vector2 (Input.GetAxisRaw (InputHorizontal), Input.GetAxisRaw (InputVertical)).normalized * (speed*(mapGen==null?1:mapGen.tileScale));
+		transform.Translate(0,Input.GetAxis("Vertical")*Time.fixedDeltaTime*speed,0);
+		transform.Rotate (0, 0, -Input.GetAxis ("Horizontal")*speed);
 	}
 	
 	void FixedUpdate() {
