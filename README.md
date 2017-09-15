@@ -7,7 +7,7 @@ O Jogador toma controle de um bote salva vidas que deve encontrar o caminho até
 
 Link do jogo: 
 
-https://www.dropbox.com/sh/rrfyrapa2wpkeej/AAC10-Edg8nNuIDp9RbEkfzla?dl=0
+https://jamisonduarte.itch.io/resgate
 
 Link para repositório do github e outras informações:
 
