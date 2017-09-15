@@ -1,7 +1,18 @@
 
+RESGATE
 
-O Naufrágio
+O jogo se trata de uma modificação do projeto ProcBubleMaze de Mario Fontes.
 
-O jogo se trata de uma modificação do projeto ProcBubbleMaze do professor Mario Fontes. O jogador toma controle de um bote salva vidas que acabou de sair de um barco naufragado e deve procurar por um ponto seguro, representado por um remo no mapa. Durante o percurso, navegando entre varias ilhas o jogador deve desviar de minas aquáticas que se encontram no caminho.
+O Jogador toma controle de um bote salva vidas que deve encontrar o caminho até as pessoas que acabaram se perdendo em alto mar quando tentavam fugir da guerra.
 
-Link para build do jogo: https://www.dropbox.com/s/v81xuvdyuqg1zev/WindowsBuild.rar?dl=0
+Link do jogo: 
+
+https://jamisonduarte.itch.io/resgate
+
+Link para repositório do github e outras informações:
+
+https://github.com/pucspcos/projetocos2016-jamison_e_carlos
+
+Repositório do projeto original:
+
+https://github.com/fontmas/procbubblemaze
